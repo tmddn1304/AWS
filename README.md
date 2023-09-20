@@ -202,13 +202,15 @@ S3(Simple Storage Service) 를 뜻합니다. -> 저장 공간
 - 웹하드 서비스와 비슷하지만, 별도의 클라이언트 설치나 ActiveX를 통하지 않고 HTTP 프로토콜로 파일 업로드/다운로드 처리
 - S3 자체로 정적 웹서비스 가능
 
-![Alt text](image-21.png)
+https://celdan.tistory.com/40 EC2와 S3 연동과정
 
 ![S3 보관주기](Image/image-25.png)
 
 ![S3 스토리지 클래스](image-5.png)
 
 ## ELB, Auto Scailing
+
+https://daeunnniii.tistory.com/142 ELB와 AutoScailing 적용과정 
 
 ![Alt text](<ELB, AutoScailing.png>)
 
